@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Clarence Joy Ilagan
+👋 Hi, I’m Clarence Joy Ilagan
 
-- 🌱 I’m currently a 4th year Mechatronics Engineering...
+🙋 I’m currently a 4th year Mechatronics Engineering...
 
 📬 clarencejoyilagan26@gmail.com
 <!---
